@@ -3,7 +3,7 @@
 ## Introduction
 
 Hi! My name is **Thea Alodia Nagal**.
-
+<img src="images/profile.jpg" alt="Profile photo of Thea Alodia Nagal" width="180">
 Welcome to my GE 4120 Elective laboratory projects.
 
 ## Laboratory Projects
