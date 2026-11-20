@@ -80,14 +80,14 @@ I enjoy exploring creative ideas, learning new digital tools, and discovering ho
 
 | Area | Skills Developed |
 |:---|:---|
-| 🎨 Visual Design | Layout composition, visual hierarchy, color coordination, typography |
-| ✿ Branding | Logo creation, brand identity, visual consistency |
-| 📱 Digital Communication | Infographic creation, information presentation |
-| 📊 Data Management | Spreadsheet organization, formulas, basic computations |
-| 🤖 Artificial Intelligence | Prompt writing, AI-assisted image generation, AI content creation |
-| 💻 Web Development | Website planning, website generation, basic web design |
-| 📄 Documentation | Project documentation, resume preparation, digital writing |
-| 🔍 Critical Evaluation | Comparing AI outputs, reviewing accuracy, evaluating generated content |
+| Visual Design | Layout composition, visual hierarchy, color coordination, typography |
+| Branding | Logo creation, brand identity, visual consistency |
+| Digital Communication | Infographic creation, information presentation |
+| Data Management | Spreadsheet organization, formulas, basic computations |
+| Artificial Intelligence | Prompt writing, AI-assisted image generation, AI content creation |
+| Web Development | Website planning, website generation, basic web design |
+| Documentation | Project documentation, resume preparation, digital writing |
+| Critical Evaluation | Comparing AI outputs, reviewing accuracy, evaluating generated content |
 
 ### Digital Tools Explored
 
@@ -127,7 +127,7 @@ Creating a promotional poster for a Free Coffee event using typography, color co
 
 **Key Focus:** Visual Communication · Layout · Typography
 
-[✿ Explore Activity 1 →](./Activity-1/)
+[✿ Explore Activity 1 →](https://github.com/dialoves/Elective-4120/tree/ff821349a4f3a2de74d2352e558d0daec10ae8b7/Activity%201%3A%20Presentation%20Design%20Principles)
 
 ---
 
@@ -135,11 +135,11 @@ Creating a promotional poster for a Free Coffee event using typography, color co
 
 <img src="https://img.shields.io/badge/ACTIVITY%2002-PERSONAL%20BRANDING-E6BBC7?style=flat-square"/>
 
-Developing a visual brand identity for Peonydia through logo creation, color palette selection, typography, and branding materials.
+Developing a brand identity through logo creation, color palettes, typography, and branding materials for Peonydia.
 
 **Key Focus:** Brand Identity · Color Theory · Typography
 
-[✿ Explore Activity 2 →](./Activity-2/)
+[✿ Explore Activity 2 →](https://github.com/dialoves/Elective-4120/tree/ff821349a4f3a2de74d2352e558d0daec10ae8b7/Activity%202%3A%20Color%20Palette%20and%20Typography)
 
 ---
 
@@ -151,19 +151,19 @@ Creating an informative social media infographic and documenting TRAFFIX, a prop
 
 **Key Focus:** Information Design · Research · Project Documentation
 
-[✿ Explore Activity 3 →](./Activity-3/)
+[✿ Explore Activity 3 →](https://github.com/dialoves/Elective-4120/tree/ff821349a4f3a2de74d2352e558d0daec10ae8b7/Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation)
 
 ---
 
-### 04 — Google Sheets
+### 04 — Presentation Exam
 
-<img src="https://img.shields.io/badge/ACTIVITY%2004-GOOGLE%20SHEETS-EAD0D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/ACTIVITY%2004-PRESENTATION%20EXAM-EAD0D8?style=flat-square"/>
 
-Exploring spreadsheet functions, formulas, data organization, and practical applications through a group presentation and interactive budgeting activity.
+Applying presentation design principles and digital presentation skills through a comprehensive presentation examination.
 
-**Key Focus:** Data Management · Spreadsheet Formulas · Computation
+**Key Focus:** Presentation Skills · Visual Communication · Digital Tools
 
-[✿ Explore Activity 4 →](./Activity-4/)
+[✿ Explore Activity 4 →](https://github.com/dialoves/Elective-4120/tree/ff821349a4f3a2de74d2352e558d0daec10ae8b7/Activity%204%3A%20Presentation%20Exam)
 
 ---
 
@@ -175,7 +175,7 @@ Comparing AI-generated Filipino food table images using an original prompt and a
 
 **Key Focus:** Prompt Engineering · AI Image Generation · Output Evaluation
 
-[✿ Explore Activity 5 →](./Activity-5/)
+[✿ Explore Activity 5 →](https://github.com/dialoves/Elective-4120/tree/ff821349a4f3a2de74d2352e558d0daec10ae8b7/Activity%205%3A%20AI%20Tools%20Activity)
 
 ---
 
@@ -187,7 +187,7 @@ Developing a one-page business website for Peonydia Cases using Replit AI, featu
 
 **Key Focus:** Website Development · AI-Assisted Design · Business Presentation
 
-[✿ Explore Activity 6 →](./Activity-6/)
+[✿ Explore Activity 6 →](https://github.com/dialoves/Elective-4120/tree/ff821349a4f3a2de74d2352e558d0daec10ae8b7/Activity%206%3A%20Making%20A%20Website)
 
 ---
 
@@ -199,13 +199,11 @@ Comparing ChatGPT and Claude AI in generating a professional nursing resume base
 
 **Key Focus:** Large Language Models · Resume Generation · Critical Evaluation
 
-[✿ Explore Activity 7 →](./Activity-7/)
+[✿ Explore Activity 7 →](https://github.com/dialoves/Elective-4120/tree/ff821349a4f3a2de74d2352e558d0daec10ae8b7/Activity%207%3A%20Resume%20Generating)
 
 ---
 
 <div align="center">
-
----
 
 ## 🌸 MY LEARNING JOURNEY 🌸
 
